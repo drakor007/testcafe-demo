@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="TestCafe Tests: Microsoft Edge 128.0.0.0 / Windows 11" tests="1" failures="0" skipped="0" errors="0" time="8.273" timestamp="Fri, 06 Sep 2024 09:02:28 GMT" >
+  <testcase classname="Test" file="C:\Users\dklem\MSCode\calculator\e2e\tests\nice.test.ts" name="Blocks" time="7.419">
+  </testcase>
+</testsuite>
